@@ -1,0 +1,30 @@
+.logo{
+    padding-top: 20PX;
+    height: 80%;
+    width: 80%;
+    text-align-last: auto;
+}
+.button{
+    padding-top:20px ;
+}
+.about{
+    margin-right: 20px;
+}
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+  }
+  body{
+    background-image: url('pexels-enrique-10785837.jpg');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .email{
+    padding-top: 5px;
+  }
